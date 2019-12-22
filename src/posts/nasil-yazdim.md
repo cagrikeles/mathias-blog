@@ -1,0 +1,2 @@
+*Yazılım nedir?
+Yazılım, elektronik parçaların bir araya gelip iletişimini sağlayan ve kullanıcının iş süresini kısaltan iletişimin düzgünlüğü ve verimliliğini artıran çeşitli görevler için hazırlanmış olan programlardır. Yazılımın en çok tercih edilmesinin sebeblerinden biri ise kolay kurulum ve kullanıcısana sağladığı kolaylıklardır. Bu sistemi kullanacak kişilerin öncelikle yazılımın mantığını kavrayıp çalışmalar yapması faydasına olacaktır.*
