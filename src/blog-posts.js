@@ -12,5 +12,11 @@ export const getPosts = () => {
       details: require("./posts/nasil-yazdim.md").default,
       date: "22 Aralık 2019"
     },
+    {
+      title: "guncelyazi",
+      slug: "guncelyazi",
+      details: require("./posts/guncelyazi.md").default,
+      date: "22 Aralık 2019"
+    },
   ];
 };
